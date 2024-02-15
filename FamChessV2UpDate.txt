@@ -100,8 +100,8 @@ function AllowRunServiceBind.OnInvoke(args)
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
         Title = "FamChessV2",
-        Text = "ControlChess",
-        Icon = "rbxthumb://type=Asset&id=16372678613&w=150&h=150",
+        Text = "Bản Quyền Của PhuongTiny",
+        Icon = "rbxthumb://type=Asset&id=16372678594&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
         Button1 = "ON",
@@ -125,8 +125,8 @@ end)
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "FamChessV2",
-    Text = "ControlChess",
-    Icon = "rbxthumb://type=Asset&id=16372678613&w=150&h=150",
+    Text = "Bản Quyền Của PhuongTiny",
+    Icon = "rbxthumb://type=Asset&id=16372678594&w=150&h=150",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
     Button1 = "ON",
